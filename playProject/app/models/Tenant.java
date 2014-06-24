@@ -12,4 +12,5 @@ public class Tenant extends Model {
 	public long id;
 	
 	public boolean claimsRecycling;
+	
 }
